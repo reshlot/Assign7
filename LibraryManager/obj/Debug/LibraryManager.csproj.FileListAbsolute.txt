@@ -1,0 +1,8 @@
+D:\Simplilearn\SQL\Assessments\Assign-7\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe.config
+D:\Simplilearn\SQL\Assessments\Assign-7\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+D:\Simplilearn\SQL\Assessments\Assign-7\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+D:\Simplilearn\SQL\Assessments\Assign-7\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.AssemblyReference.cache
+D:\Simplilearn\SQL\Assessments\Assign-7\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\SQL\Assessments\Assign-7\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.CoreCompileInputs.cache
+D:\Simplilearn\SQL\Assessments\Assign-7\LibraryManager\LibraryManager\obj\Debug\LibraryManager.exe
+D:\Simplilearn\SQL\Assessments\Assign-7\LibraryManager\LibraryManager\obj\Debug\LibraryManager.pdb
